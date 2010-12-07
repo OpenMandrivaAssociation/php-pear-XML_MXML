@@ -4,7 +4,7 @@
 
 Name:		php-pear-%{upstream_name}
 Version:	0.3.0
-Release:	%mkrel 11
+Release:	%mkrel 12
 Summary:	Framework to build Macromedia Flex applications
 License:	PHP License
 Group:		Development/PHP
